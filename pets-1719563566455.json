@@ -1,0 +1,38 @@
+[
+  {
+    "color": "white",
+    "type": "chicken",
+    "size": "nano",
+    "name": "Richard"
+  },
+  {
+    "color": "red",
+    "type": "dog",
+    "size": "nano",
+    "name": "Henry"
+  },
+  {
+    "color": "green",
+    "type": "deno",
+    "size": "nano",
+    "name": "Dino"
+  },
+  {
+    "color": "purple",
+    "type": "mod",
+    "size": "nano",
+    "name": "Purple Pal"
+  },
+  {
+    "color": "green",
+    "type": "snake",
+    "size": "nano",
+    "name": "Moss"
+  },
+  {
+    "color": "yellow",
+    "type": "rubber-duck",
+    "size": "nano",
+    "name": "Golduck"
+  }
+]
